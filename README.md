@@ -14,4 +14,4 @@ Aplikasi web sederhana menggunakan PHP Native dan Bootstrap untuk mengelola data
 4. Buka `http://localhost/crud_barang/` di browser# crud_barang
 
 ## Screenshot Tampilan
-![Tampilan Aplikasi](daftarbarang,png.png)
+![Tampilan Aplikasi](daftarbarang.png)
